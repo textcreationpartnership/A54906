@@ -1,0 +1,300 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Bowells of compassion towards the fettered seed. Or a visitation to all, who hath been seeking the resting place, but hath not found it the cause why shewed, and the way to it manifested, wherein is something shewed also, of the emptinesse, and unsoundnesse of all profession, without the light of Christ, to be the guide. Also an information to all the honest-hearted who desires to know the truth in the simplicity of it concerning us, the people of the most high who is by the world called Quakers: ... Written in love to the scattered people in America: and is to be sent to all the islands belonging to it, that all may be warned, and left without excuse. By one who am a witnesse what the Lord hath done for his people, and hath obteined with him among the rest of the faithfull, whom he hath gathered into his fold of rest; where they are throughly satisfied; and lies down in peace and rest. Richard Pinder.</title>
+            <author>Pinder, Richard, d. 1695.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1659</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 35 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54906</idno>
+            <idno type="STC">Wing P2261</idno>
+            <idno type="STC">ESTC R220527</idno>
+            <idno type="EEBO-CITATION">99831923</idno>
+            <idno type="PROQUEST">99831923</idno>
+            <idno type="VID">36390</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A54906)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36390)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2130:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Bowells of compassion towards the fettered seed. Or a visitation to all, who hath been seeking the resting place, but hath not found it the cause why shewed, and the way to it manifested, wherein is something shewed also, of the emptinesse, and unsoundnesse of all profession, without the light of Christ, to be the guide. Also an information to all the honest-hearted who desires to know the truth in the simplicity of it concerning us, the people of the most high who is by the world called Quakers: ... Written in love to the scattered people in America: and is to be sent to all the islands belonging to it, that all may be warned, and left without excuse. By one who am a witnesse what the Lord hath done for his people, and hath obteined with him among the rest of the faithfull, whom he hath gathered into his fold of rest; where they are throughly satisfied; and lies down in peace and rest. Richard Pinder.</title>
+                  <author>Pinder, Richard, d. 1695.</author>
+               </titleStmt>
+               <extent>11, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for M.W. in the 10th. month,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>(59 [i.e. 1659]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon; complete publication date from Wing.</note>
+                  <note>Cropped; some print faded.</note>
+                  <note>Reproduction of the original in the Friends House Library, London.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Society of Friends --  Apologetic works --  Early works to 1800.</term>
+               <term>Quakers --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="to_the_reader">
+            <pb facs="tcp:36390:1"/>
+            <pb n="1" facs="tcp:36390:1" rendition="simple:additions"/>
+            <head>Bowells of Compaſſion towards the ſcattered Seed. Or a viſitation to all, who hath been ſeeking the reſting place, but hath not found it: the cauſe why ſhewed; and the way to it manifeſted, wherein is ſomething ſhewed alſo, of the emptineſſe, and unſoundneſſe of all profeſſion, without the light of Chriſt, to be the guide.</head>
+            <p>Alſo an information to all the honeſt hearted who deſires to know the truth in the ſimplicity of it concerning us, the people of the moſt high who is by the world called Quakers: where all people is warned not to paſſe their Judgement upon us, only by the reports of ſuch as know not God: wherein they are councelled out of love to their ſoules to wait with patience; and to mind the teſtimony of Gods witneſſe, that they may be preſerved from lifting their hand againſt the Lord, and his work.</p>
+            <p>Written in love to the ſcattered people in <hi>America:</hi> and is to be ſent to all the Iſlands belonging to it, that all may be warned, and left without excuſe. By one who am a witneſſe what the Lord hath done for his people, and hath ob<g ref="char:EOLhyphen"/>teined with him among the reſt of the faithfull, whom he hath gathered into his fold of reſt; where they are throughly ſatisfied; and lies down in peace and reſt.</p>
+            <closer>
+               <signed>Richard Pinder.</signed>
+            </closer>
+         </div>
+         <div type="text">
+            <p>COme oh all yee wearyed ſoules, who hath travailed long, and hath waited long for deliverance: now is the everlaſting light broken forth; and de<g ref="char:EOLhyphen"/>liverance is proclaimed by it unto all that have mourned in the time of Zions deſolation, and hath waited for her deliverance out of Captivit<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and bon<g ref="char:EOLhyphen"/>dage to be ſet free. Unto you the Lordis uttering of his voice, to the cauſing the dead to heare; that yee may underſtand the way of life, and ſalvation; which unto you is held forth in the light of eternall life, unto all that ſhall receive it, and beleive in it, and be turned to it, whereby you will be turned from under Satans power (which hath cauſed your ſoules to mourn) into the power of God; and will feele redemption wrought by it, and deliverance to be brought to the ſeed of God, which hath long been kept in bondage; and been captivated, and hath groaned for deliverance; but found it not, while your minds was alienated, and eſtranged from the pure Principle of God in you, and ſo from the life of Chriſt, and ſtrangers to it. For all are ſtrangers to the life of Chriſt, untill they be turned
+<pb n="2" facs="tcp:36390:2"/>to his light which ſhines in them: whereby they are turned from the darkneſſe, and from under the power of it, into his power who hath enlightened them, who is the life, which was given to be the light of men (which the darkneſſe could not comprehend) that whoſoever ſhould beleeve in him, ſhould not abide in darkneſſe but ſhould have the light of life; and ſo be tranſlated from death to life; that in his life who hath enlightened them, they might be pertakers of Gods love, who hath loved them, and called them out of darkneſſe into his light; that in his light they may know his power; that by it, they may be quickened, and made alive un<g ref="char:EOLhyphen"/>to him; whereby the way of life will be known, and lived in, which is not known by thoſe that hates the light who are enemies to it, and doth not beleeve in it, and ſo come ſhort of the life (which ſhould ſatisfie them) and remains in the death, and the power of it guides them that doth not obey the light, but obeys unrighte<g ref="char:EOLhyphen"/>ouſneſſe, and yields their members ſervants unto it, and ſo is free from righteouſ<g ref="char:EOLhyphen"/>neſſe, becauſe they beleeve not in Chriſt (who hath enlightened them) who is Gods righteouſneſſe, in whom God is well pleaſed, and in whom his Children finds ac<g ref="char:EOLhyphen"/>ceptance with him, and is well pleaſing to him in obedience to his light; in which they come to receive his mind, and will, and knows his ſecrets revealed in them and ſo knows his voice; and follows it, in the way where they find paſture, and feeding; and ſo is ſatisfied, and lies down in peace with him; and knows the reſt<g ref="char:EOLhyphen"/>ing place, which all they are ignorant of, that denies his light by which they are enlightened; and the leadings of it, which ſhould lead, them out of the way of death, and deſtruction, which all they are going on in that doth not beleive in the light, which is the way to God, and is the truth, and the life; in whom ſalvati<g ref="char:EOLhyphen"/>on is only to be ſought for, and found, and in no other but in him; that hath en<g ref="char:EOLhyphen"/>lightened you with his true light. So all you that hath long profeſſed God, and hath ſought after peace with him, but hath not found it; here is the ground, becauſe you have not ſought it in the light; and ſo have not known the power which ſhould have reconciled you unto God, that ſo the enmity hath lodged in your hearts; and the partition wall hath been ſtanding unthrown down, which kept you at a diſtance from God; which muſt be ſlain; and thrown down; before peace with God be known, and witneſſed; which never any comes to ſee ſlain, or thrown down; but thoſe that comes to the light, and receives it, and beleivs in it; and ſo receives the power which ſlays the enmity; and breaks down the partition wall: for to as many as did receive him, power was given to become the Sons of God, in which power they had victory, and were redeemed to God by it, out of the iniquity, and out of the ſin: where peace with God comes to be witneſſed in the light, and power of God, which hath diſcovered it; and thrown it down, and here Chriſt comes to be put on, &amp; the true faith known, and the increaſe of it: and the old man with his deeds, comes here to be put off, and crucified; and the new man known, which is after Gods Image, and comes to be renewed according to the will of God, and here comes the image of the heavenly to be known and born; the wiſedome which is from above
+<pb n="3" facs="tcp:36390:2"/>received: which is firſt pure, then peaceable, gentle, and eaſie to be intreated: which all they who are making a profeſſion of God, and the Scriptures in their earthly wiſedom (and the enmity ſtanding in their minds) that wiſedome which is from above they are ignorant of, for the wiſedome which is from above comes only to be known in the light: for Chriſt who is the light is the wiſedom of God, &amp; the power of God. So all they who make a profeſſion of God and yet diſobeys the light which Chriſt hath enlightned them withall: their wiſedom is earthly, ſenſuall, and divelliſh: and all who be in this wiſedom they are below the knowledge of God, and ſo in this wiſedome is it that men put light for darkneſs, and darkneſs for light; and ſo is not fit to judge of the things of God; for the things of God is fooliſhneſs to that wiſedome which is from below; and God will confound it, and all them that be in it, that ſets themſelves againſt his appearance, which is in light; in which light the things of God comes onely to be ſeen and known in that which is ſpirituall and eternall: for it is the eye which is eternall and inviſi<g ref="char:EOLhyphen"/>ble, that ſees into the inviſible things of God. So all they which be from the light (which is the eye) they are blind, as concerning the things of God; for it is only the light which gives the knowledge of God, and ſearches into, and ſees into the things which is eternall: and the things of God are onely ſpiritually diſcerned; for the naturall man doth not perceive them, neither can ſee into them. So all you that are ſpeaking of the things of God, and are profeſſing the Saints word, which was given forth by the eternall ſpirit which dwells in them, and did reveal the things of God unto them: Now you that profeſs their words, and yet denies the light that Chriſt hath enlightned you withall, and calls it naturall (and ſo ex<g ref="char:EOLhyphen"/>cludes your ſelves from having any thing in you which is eternall of God) you are wholly blind in the things of God. For any who ever comes to know any thing of God, as concerning the ſalvation of their ſoules; they muſt know it by the light in them; for God is only light, and in him is no darkneſſe at all; and ſo the darkneſſe that cannot reveale him, nor comprehend him, who is light it ſelfe, who hath immortallity, and dwells in the light, and only reveales himſelfe to his Creatures in the light; that ſo they in his light may know what concernes the good of their ſoules; and as they are kept in it, they are kept in unity with him, who is the Authour of it. And ſo as the Saints walked in the light; they had unity with God (who is light) and one with another; and in it knew the waſhing, and cleanſ<g ref="char:EOLhyphen"/>ing, by the blood of Jeſus, from all unrighteouſneſſe. And all they that deny the light, deny that which ſhould waſh them and cleanſe them; and ſo tramples under foot the blood of the Covenant, and counts it an unholy thing; and ſo neglect that which is ordained of God to be the ſalvation of their ſoules; and deſpiſes the day of their viſitation; and ſlights it; and ſo remaines in darkneſſe, and knows not what way they go, becauſe darkneſs hath blinded their eye, with which they ſhould fee the way of ſalvation; and their eye being blinded, then they ſtumble and ſo erres from the way of God; and ſtumbles at Chriſt the cheife corner ſtone
+<pb n="4" facs="tcp:36390:3"/>who is a ſtumbling ſtone, and rock of offence unto thoſe that doth not beleeve in him; but take pleaſure in unrighteouſneſſe. But who loves his light, and walkes in it; the occaſion of ſtumbling comes to be taken away: for all ſtumbling that is in the night in the darkneſſ, from the light: and ſo all who ſtumbles, it is be<g ref="char:EOLhyphen"/>cauſe they beleive not in the light which Chriſt hath enlightened them withall; and ſo the light is their condemnation, becauſe they doe not beleeve in it, but loves their evill deeds; which the light (if they were obedient unto) would lead out of; and ſo lead out of condemnation: for this is the condemnation, that light is come into the World, but men love darkneſſe rather then light, becauſe their deeds are evill; and will not bring their deeds to the light, becauſe the light will reprove them. And ſo he <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the ground, why ſo many, both teachers, and people, hates the light, and ſpeakes evill of it; becauſe they love, their evill deeds: but all that love the light brings their deeds to it; whereby they are manifeſt that they are wrought in God, and is juſtified by his light, which hath led out of the love of the evill deeds. So all you that are breathing after peace, and fellowſhip with God, and hath longed for it, but hath not found it, come to the light, and this will let you ſee what hath kept you from it; for this for your ſakes is written, that you may underſtand where the way of life and peace is to be found; and that you may be brought into it, where you will ſee the emptineſſe, and unſoundneſſe, and unprofitableneſſe of all that profeſſion which is without the light; and of all thoſe performances which is acted, but not led into by the light, which is the Principle of God. So never any comes to find true peace, neither in performing, nor in not performing, but thoſe that are led into the obedience of what they doe, by the principle which is of God; for this orders their ſervice, and worſhip, unto him aright: and is ac<g ref="char:EOLhyphen"/>cepted with him, where an anſwer from him comes to be knowne and received; which none comes to know, or receive, but thoſe that are led into what they do by the motions of his own ſpirit. For his worſhip and ſervice; that ſtands in the ſpirit, and in the truth. And all whoſe minds are abroad from the princi<g ref="char:EOLhyphen"/>ple of truth in them, they are ſtrangers to the worſhip and ſervice of God; who are waiting for him and his appearance in outward obſervations, you are miſtaken, and the God of the world hath blinded your mindes: for his kingdome comes not by obſervation, nor ſtands not in words, but in power, and in peace, and joy in the holy Ghoſt, and the appearance of it is to be found in you, as a graine of muſtard-ſeed; and the increaſe of it you are to wait to feele there. And all you that have been ſeeking loe here, and loe there, you muſt turne back, and feele the appearance of it in your ſelves; and not be as fooles, whoſe eyes is abroad. For you have been deceived by thoſe that hath cryed loe here, and loe there; they have drawn you forth from the principle of God in you (which ſhould have led you into the knowledge of God) and ſo you have come ſhort of what you have deſired after <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd ſought for; and you have ſpent your mony for that which is not bread, and
+<pb n="5" facs="tcp:36390:3"/>your labour for that which hath not given you true ſatisfaction. Now the Lord have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing remembred the travell of all ſuch; and having regarded the cry of the oppreſſed, it hath cauſed bowels of compaſſion; that ſo after the time of your long darknes, he is riſen to gather you, with thoughts of love towards you; if you be not ſtiffnecked, &amp; rebellious; but be willing and obedient unto, he will gather you the reſting place to ly down with thoſe whom he hath cauſed to underſtand his councell, and made known the way of life unto them; and hath eſtabliſhed their feete upon the ſure foundation, and rock of ages: this the Lord hath done for many thouſands, after their long travell, and much ſeeking hath brought to the knowledge of the truth it ſelfe; whereby they are throughly ſatisfied, and lyes down in his arm, by which he hath gathered them into his fold of reſt. This the Lord hath brought to paſſe; to the praiſe, and honour of his own name; in the Iſland of <hi>England;</hi> where many is brought to walk in the light of the Lord their God; and lyes down together in the reſting place, where their waters is ſure. And now the Lord is fulfilling his promiſe made of old; and is ri<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en to gather his elect from the four corners of the earth, into his everlaſting fold, where there is one ſhephard, and one fold witneſſed according to his promiſe; who hath promiſed that he will ſeek, ſave that which was loſt; and bring back that which was driven away. And this is a viſitation unto you the ſcat<g ref="char:EOLhyphen"/>tered in <hi>America,</hi> who hath any true, and living breathings after God; who hath profeſſed him in words, but hath not found thath which your ſoules longed after by one whom am a witneſſe what the Lord hath done for his people; and having obtained deliverance, and favour wim (amongſt the reſt) who is conſtrained by the love, and power of God to viſit you; that you may alſo be gathered, and made pertakers of the ſame love, and power, which now the Lord is manifeſting to the glory of his everlaſting name; and to the peace; and comfort of all tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have waited for him, and ſought him in ſincerity, and uprightneſſe of heart: now hath he cauſed his glorious light to ſhine forth, to guide their feet in the way o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> peace, and ſalvation; in which fooles ſhall not erre, nor goe aſtray: and all tha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> walkes in it, ſhall find paſture; and feeding, and ſhall grow to his praiſe, that hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> called them; and ſhewn them the way of life, who hath viſited them with the da<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſprung from on high, which hath given the knowledged of ſalvation; and hat<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> brought deliverance with it, even unto thoſe that ſate in darkneſſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and under th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhaddow of death; behold light i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſprung up, which hath cauſed many to rejoyc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Ariſe, ariſe, you that are yet in darkneſſe, and come forth, that Chriſt may gi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you life; that you may come to witneſſe deliverance to your ſoules, which is pr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ous in the eyes of the Lord; who doth not deſire your death, but rather that yo<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſhould repent and live, that he may have mercy on you; that you might be gather<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in this day of his love; leaſt it be ſaid unto you, how often would the Lord have g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>thered you, but you would not. Oh be not ſtiff-necked, neither harden your hearts gainſt him; leaſt the day of your viſitation paſs over your heads, &amp; it be hid from yo<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> eyes,
+<pb n="6" facs="tcp:36390:4"/>but while the Lord calls, and waites to be gracious unto you, that you may return with ſpeed; that he may ſhew mercy unto you: who hath ſaid that in the day that the wicked man turnes from his wickedneſſe, and doth that which is juſt, he will remember his ſin no more. But know aſſuredly that if you neglect the day of your viſitation, and continue, and go on in ſin, and wickedneſſe; that the day of the Lord will overtake you; and that his fury, and indignation, you muſt pertake of, which muſt be poured out without mixture: and will fall heavy upon the head of the wicked, and ungodly, that turnes his pure grace into wantonneſſe; which hath appeared unto them, and would teach them to deny all ungodlineſſe; (if they were obedient unto it) and to live godly, and ſoberly in this preſent world. But if you go on in wickedneſſe after you are warned, and do deſpite unto the ſpirit of grace; then your candle ſhall be put out: and know then that utter darkneſſe ſhall be your portion; where there ſhall be weeping and gnaſhing of teeth, for ever, and ever.</p>
+            <p>And unto all you whoſe hearts is tender towards God; and deſires to know the truth as it is in Jeſus, and is afraid of being deceived, and led in the way of errour a few lines I am moved to write unto you, that you may be more fully informed concerning us, whom the Lord hath made witneſſes of his truth; ſeeing many falſe reports, and many ſlanders is caſt upon us by thoſe that know not God, nor his worſhip, which is in ſpirit, and in truth; and this worſhip we own; and ſet up, and witneſſe it amongſt us: and therefore is it that we are ſo much hated, and re<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roached by all ſorts of people that are in the falſe worſhip, and ways, becauſe we <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſtifie againſt them all, who are in the Sects, and opinions, that are ſetting up their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>wn inventions; and ſo is worſhiping the work of their own hands; againſt all ſuch <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ve bear our teſtimony, who knows not a principle of God to guide them in their worſhip: but is worſhipping by tradition: for this we ſay, that it is neither cir<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umciſion, nor uncircumciſion that avails any thing with God, but a new creature, <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>o this in ſhort; we are againſt all thoſe that profeſſe that, which they live not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e life of; ſuch we account as hypocrites, and all ſuch teachers that profeſſe the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>criptures, and Saints words; and yet be out of their life; all ſuch we doe deny, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd turn from them, as having the form of godlineſſe; but not the power of it, who <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>enies the light, which Chriſt hath enlightened every one withall; with which they <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ould be led into the life of what they profeſſe, and this we ſay, that none comes <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nto the life which the Saints was in who gave forth the ſcriptures, but thoſe that <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ome to be guided by the ſame ſpirit, as they were; nor into the power which the <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ints lived in, but thoſe that receives the light of Chriſt, which ſhi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es into their own conſciences. And I ſay again, that thoſe profeſſed Teachers, who doth de<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the light of Chriſt to be manifeſted within people, to guide, and teach them; <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ch we account, as blind guides: for we knowing, and being aſſured that there is <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>othing that can guide any in the way of God, but the light, which comes <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>om him, and all they that doth deny the appearance of it to be within; we ſay
+<pb n="7" facs="tcp:36390:4"/>they are ignorant of the anointing which was in the Saints, and did teach them; and as they continued in it, they needed not any man to teach them, and all who deny the teachings of the anointing within, we account as Antichriſts, and deceiv<g ref="char:EOLhyphen"/>ers; and ſay they were never ſent of God: for thoſe that were ſent by him, they were ſent to turn people from darkneſſe to light, from Satan<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> power, unto God. And again we ſay, that none brings any unto God, nor profits people, but thoſe that turnes them to the light; for how is any like to come into the knowledge of God, while they remain in darkneſſe: and them Teachers, which doth not bring people to the anointing within, to be taught by it; we account of that ſort which keepes people ever learning, but never able to come to the knowledg of the truth. For it was the ſpirit of truth, by which the Saints was led into all truth; and the ſpirit did reveale the things of God unto them; and it was within them: and what may be known of God, is manifeſt within. So not any one knows any thing of God, but as his ſpirit reveales unto them. For no man knows the Father but the Son, and h<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> to whom the Son reveales him, and who ever comes to know the Father, and the Son to dwell in them, they muſt come to the light, and wait in it, to feel the Fa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her and the Son revealed: and here you will know the doctrine of Chriſt; and all that abides in it, they have both the Father, and the Son: and if any bring any o<g ref="char:EOLhyphen"/>ther doctrine then this, you are not to receive them into your houſes, neither bid them God ſpeed, leaſt you be partakers of their ſins. And all that reads this, may ſee that that accuſation is falſly caſt upon us, to ſay that we deny the Miniſters of Chriſt; for it is none but thoſe that profeſſe themſelves to be his miniſters; and doth not abide in his doctrine, it is thoſe that we deny; and declare againſt thoſe that we find walking in the ſteps of the falſe Prophets, which we read of in the ſcriptures. So this is for the ſimples ſake, that they may cleerly underſtand that we do not deny the true Miniſtry, nor Miniſters, but own them; and witneſſe th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> true miniſtry among us. And praiſes be unto the Lord, many have the word of re<g ref="char:EOLhyphen"/>conciliation committed unto them, and are faithfull miniſters of it; not of the letter, but of the ſpirit, which gives life; by which many comes to be converte<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> unto God, and turned from darkneſſe unto light. So it is none but thoſe that can not witneſſe this miniſtry that we ſpeake againſt; who runs for their own ends but is not ſent of God, and ſo doth not profit people; thoſe indeed we do declar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> againſt; as all thoſe ever did that was ſent by God; and did receive their miniſtr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> from him freely; and ſo was to miniſter freely unto thoſe whom the Lord ſen<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> them; and ſo the Lord he cared for them. And thoſe that make a prey upon th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people; and through covetouſneſſe make Merchandize of ſoules, thoſe we do de<g ref="char:EOLunhyphen"/>ny; ſuch as watches not for the good of ſoules, but for the flee<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e; ſuch we exhor<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> people to turn away from, leaſt they be deſtroyed by them; ſuch who feedes n<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the flock, but feeds themſelves; thoſe teachers we declare againſt, in what Coun<g ref="char:EOLunhyphen"/>trey, or place ſoever we find them; and ſeeks to redeem people out of their mouth<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> that ſo they may no longer make a prey upon them; that they may be brought <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+               <pb facs="tcp:36390:5"/>
+               <pb n="6" facs="tcp:36390:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="7" facs="tcp:36390:6"/>
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="8" facs="tcp:36390:7"/>know their true ſhephard, and true Teacher; who is now come to teach his people by his own ſpirit, and is fullfilling his promiſe made with Iſrael; all the children of the Lord ſhall be taught of the Lord; and great ſhall be their peace: and now he is gathering the reſidue of his own ſeed into his covenant of ligh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>; where they ſhall not need to teach every man his neig<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ur, and brother, ſaying know the Lord, but all ſhall know him, from the leaſt to the greateſt: and he is pouring forth of his ſpirit upon all fleſh; and many, both Sons and Daughters, is brought to Propheſie, according unto his promiſe; and this he hath fullfilled, and brought to paſſe, among his gathered flock, other great aſtoniſhment: of all the heathen round about; who knows not God, nor his power, by which he ſubdues Kingdomes; and over-turnes them, untill the Government of them come into his hand, whoſe right they are: who reignes in righteouſneſſe, in juſtice, and in equity; who muſt rule all Nations with his Iron rod, and will daſh them to peices, (like a Potters veſſell) that oppoſeth him in his work, which now he is bringing to paſſe; by his own Arm; even his work, his ſtrange work, his act; his ſtrange act. So this the Lord hath put in my heart, to warne all, both high, and low, both rich, and poor, bond, and free, that you take heed how you lift your hand againſt the Lord, and his people; whom he hath made witneſſes of his out-goings, which hath been as in times of old; leaſt it come upon you, as ſpoken of by his Prophet, behold yee deſpiſers, and wonderers, and periſh; for the abomination, which hath cauſed de<g ref="char:EOLhyphen"/>ſolation is ſeen; and he that ſtands in the holy place reads, and underſtands. So I ſay, again this is a warning unto all ſorts of people, in theſe forreigne Countreyes that they be not haſty to ſpeake evill of things that they know not; nor to judge raſhly of things they doe not underſtand; but that they may with patience wait to ſee what the Lord will bring to paſſe; leaſt they be found fighting againſt him; and ſo be conſumed by the breach of his noſtrills: for ſurely his ſtroke will be grievous, and fall heavy upon all that withſtands him: for conſider was there ever any that ſtrove againſt the Lord, and proſpered? Nay; though the heathen rage; and the wicked imagine vaine things againſt the Lord, and his people; they ſhall be confounded; and his Son he will exalt upon his holy hill; to be both Lord and King, and Law-giver: unto whom Kings, and Princes ſhall be made ſubject and ſhall lay downe their Crownes at his feete: and this the Lord will bring to<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſe; contrary to all the wills of men; that ſo he may be exalted, and get him<g ref="char:EOLhyphen"/>ſelfe a name for his own works ſakes; whoſe out-goings was ever ſtrange unto the World: and this I ſay for your ſake; whoſe hearts is after God, that you may not be filled with reports from the mouthes of wicked and ungodly men, con<g ref="char:EOLhyphen"/>cerning us, the people of the moſt high; but that you may be ſingle in your mindes from judging of us, untill you ſee further of us. And mind the teſtimony of Gods witneſſe in you, that you may be preſerved, from paſſing Judgement naſtily upon u<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, onely from the reports of ſuch as know not the Lord. For a
+<pb n="9" facs="tcp:36390:7"/>people that is hated of the World we are; and the Lord hath redeemed us out of the pollutions of it; whereby we give our teſtimony againſt it that the deeds of it is evill; wherefore we are hated of the World, as thoſe ever was, whom the Lord called out of it; and choſe to beare his teſtimony againſt it, and unto his truth; whereby they become a by-word, and a reproach unto the World, as we are now, whom he hath redeemed unto himſelfe out of the vain glory, and cuſtomes of it; whereby we have the teſtimony of his ſpirit, that we are of him, and that the whole World lies in wickedneſſe; and becauſe we obey his commands, and they are not greivous, but joyous to us: And becauſe the love of God dwels amongſt us, and is perfected in us, and one towards another, whereby we know that we are paſſed from death to life, where Satan hath no power, but is caſt out; which hath cauſed great wrath upon them that dwels in the Earth, that ſo many times they have ſought to devour us; and hath had power to caſt ſome of us into Priſon, and to inflict puniſhment upon our outward bodies for a time, in which time the Lord was with us our ſtay, and refuge; when all the powers of darkneſſe roſe up againſt us, and would have devoured us in a moment, had not the Lord appeared for us, for the deliverance of his own ſeed, for whoſe ſake he is now riſen, with full pur<g ref="char:EOLhyphen"/>poſe to gather, and to make it the praiſe of the whole Earth, and to exalt it in ſpite of all his enemies, and to crown his people with victory, and dominion <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ver the heads of all the ungodly, whom he hath upholden by his arme, and hath led them through great tribulation, whereby they came to be acquainted with the Lords dealings with them, and ſaw his arme and power, through all preſerving of them, where they had their garments waſhed, and made white, and is redeemed by the blood of the Lamb, and hath received the mark of the living God in their fore<g ref="char:EOLhyphen"/>heads, and have found their names written in the Lambes book of life, from the foundation of the World, and ſo cannot worſhip the Beaſt, nor his Image; but makes warre againſt him, with the teſtimony of the Lamb, by which we overcome and have victory, and rejoyces over the Beaſt, and falſe Prophet (praiſes be unto the Lord for ever more) and worſhips him that made heaven and earth, who was dead, and is alive, and lives for ever more; who hath brought ſalvation, and re<g ref="char:EOLhyphen"/>demption, who hath wrought all our workes for us, and in us, who hath ſaved in the time of need: who by his own arme hath brought deliverance, and hath de<g ref="char:EOLhyphen"/>livered out of captivity, and bondage, and hath made us free, in the kingdome of his own Son; who cannot but extoll his loving kindneſſe, and infinite mercies towards us, whoſe time hath been a time of love, even when none elſe pittyed, then he by his own power wrought our deliverance, and ſaved us; whereby we are be<g ref="char:EOLhyphen"/>come the firſt fruites unto the Lord God, and to the Lamb, and rejoyces before the Throne of his glory, where we come to be filled with his praiſes, who hath pur<g ref="char:EOLhyphen"/>chaſed us by his own blood, and hath redeemed us out of kinred, tongues, and Nations, not to live unto our ſelves, but unto him that dyed for out ſins, and is riſen again for our juſtification, that we ſhould not faſhion our ſelves according to
+<pb n="10" facs="tcp:36390:8"/>the former luſts, in our ignorance, nor according to the courſe of the World, neither that we ſhould be conformable unto it; but that we ſhould live to his praiſe and be conformable to his Image, who is our Captain, and forerunner, who for the joy ſet before him endured the Croſſe, and deſpiſed the ſhame, and ſo he being our example, and Maſter, who ſuffered the contradiction of ſinners, therefore, we as followers, and ſervants thinkes it no ſtrange thing to be hated, and reviled of the World, we knowing that our Lord and Maſter paſſed the ſame way: and that the ſervant is not greater then his Lord: and that they who will live godly in Chriſt Jeſus muſt ſuffer perſecution: So we rather chuſe to ſuffer with our Lord and Maſter, then to enjoy the pleaſures of ſin; which is but for a ſeaſon; we ra<g ref="char:EOLhyphen"/>ther chuſe to fill up the meaſure of his ſufferings which is yet behind: for we knowing that all who ever reignes with him, muſt firſt ſuffer with him, for he was made perfect through ſufferings; and we knowing, and having ſuch a cloud of witneſſes, recorded in the Scriptures of truth, that perſecution, and ſuffering, was the portion, which the people of God received from the World; Therefore we even ſo walk, as we have them for an example: we beleiving that they through patience obtained the promiſe; and is laid down in peace, and reſt; that ſo, none need wonder why we are ſo hated, and perſecuted in every place, by thoſe that knowes not God; and by them alſo that profeſſeth in words they know him; but in works deny him; by all ſuch we are hated, and falſly ſlandered, but unto us reproches is great riches: we knowing that they have no evill juſtly to accuſe us of, or lay to our charge, as we have a true teſtimony in all conſciences, that doth witneſſe for us, that our lives and converſations is honeſt, and harmleſſe towards all men, both in word and action; and that we walk void of offence towards all. Onely this the ſeed of enmity is offended when we cannot bow to it, nor honour it: knowing that all honour is to be given unto God; and that it is due to him, and that he will not give it to another; and that all knees is to bow at the name of Jeſus, both things in heaven, and things in earth. So no more we can bow to the ſeed of the Serpent, knowing that it is that ſeed, which ſeekes the honour which is below: and not the honour which is from above; So we honour all men in the Lord; and gives honour unto whom honour is due; but bow to <hi>Haman</hi>'s wicked nature we cannot, though we ſuffer for it, as <hi>Haman</hi> would have cauſed <hi>Mordecai</hi> to have done. Or it may be they are offended at us, becauſe we propheſie againſt all ſin, and wickedneſſe, and exhorts people to come out of it; and to minde the light of Chriſt in them, which checks and reproves for ſin, that ſo they might be brought to repentance; to witneſſe the ſalvation of their ſoules; now indeed, when the ſeed of the Serpent heares this, it begins to rage in them, in whom it beares rule, for great is the enmity of the old Serpent, the Dragon, againſt the Man-child, wherever he ſpeakes, knowing that it is he that muſt bruiſe his head, and daſh his kingdom to peices with his rod of Iron, who muſt rule all Nations; and unto whom all knees muſt bow, and we knowing this, that all power is given
+<pb n="11" facs="tcp:36390:8"/>unto him the Lamb of God, which was ſlain from the foundation of the World we are ſubject unto him, and his power, for conſcience ſake; knowing that it i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the higher power, unto which all is to be ſubject.</p>
+            <p>And here the honeſt hearted Reader may ſee what hath been, and is the cauſ<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> why we have ſuffered, and do ſuffer by the hands of unreaſonable men, ſeeing ther<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> is enmity put between the two Seed, and that he that is born after the fleſh per<g ref="char:EOLhyphen"/>ſecutes him that is born after the ſpirit, and that there is no agreement between the temple of God, and the temple of Idols, nor no communion betwixt light, and darkneſſe, and that the bond-Woman, and her Son, ſeekes to deſtroy the free Woman, and her Son. So if thy eye be but ſingle, and thou read without prejudice in thy minde, and let not the evill overcome thee; thou maiſt eaſily ſee what ſeed we are of. If we were of the World, the World would heare us, but the World heares its own; and he hath choſen us out of the World, therefore the World hate us, becauſe it hated him, who hath called, and choſen us; before it hated us: a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> the Servant is not greater then his Lord.</p>
+            <closer>
+               <signed>By one who deſires the good of all ſoules R P</signed>
+               <dateline>
+                  <hi>Barbados</hi> 
+                  <date>
+                     <hi>the 6th. day of the 7th. Month.</hi>
+                  </date> (59)</dateline>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed for <hi>M.W.</hi> in the 10th. month, (59)</p>
+         </div>
+      </back>
+   </text>
+</TEI>
